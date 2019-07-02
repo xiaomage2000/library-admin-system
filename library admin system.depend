@@ -1,14 +1,15 @@
 # depslib dependency file v1.0
-1561971267 source:c:\users\administrator\desktop\library admin system\main.c
+1562056472 source:c:\users\administrator\desktop\library system\main.c
 	<stdio.h>
-	<stdlib.h>
 	<string.h>
+	<stdlib.h>
+	<math.h>
 	<windows.h>
 
-1561985551 source:c:\users\xiaomage\desktop\library admin system\main.c
+1562075859 source:c:\users\xiaomage\desktop\temp\Í¼Êé¹ÝÊ¾Àý\library system\main.c
 	<stdio.h>
-	<stdlib.h>
 	<string.h>
-	<windows.h>
+	<stdlib.h>
 	<math.h>
+	<windows.h>
 
